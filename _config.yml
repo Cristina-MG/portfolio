@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "SONIA DOSIO"
-description: "A lightweight site starter for Jekyll"
+title: "CRISTINA MARTINEZ GARCIA"
+description: "welcome to my Portfolio"
 logo: foto.jpg
 teaser: foto.jpg
 locale: en_US
@@ -26,7 +26,7 @@ plugins:
 
 # Site owner
 owner:
-  name: "Sonia Dosio"
+  name: "Cristina Martínez García"
   web: 
   twitter: 
   bio: 
