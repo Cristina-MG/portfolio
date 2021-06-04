@@ -2,28 +2,30 @@
 layout: article
 title: "TUMOR BRAIN CLASSIFICATION"
 categories: portfolio
-excerpt: "Proyecto de Machine Learning para la detección y clasificación de tumores cerebrales analizando imágenes de resonancia magnética (MRI)"
+excerpt: "Machine Learning project for the detection and classification of brain tumors by analyzing magnetic resonance images (MRI)"
 tags: [machine learning]
 share: false
 image:
   teaser: tumorbrain400x250.jpg
 ---
 
-Los tumores cerebrales se consideran una de las enfermedades más agresivas que pueden afectar tanto a adultos como a niños. Los tumores cerebrales representan entre el 80 y el 90% de todos los tumores primarios del sistema nervioso central(SNC).
+<h2> Machine Learning project for the detection and classification of brain tumors by analyzing magnetic resonance images (MRI)</h2>
+
+Brain tumors are considered one of the most aggressive diseases that can affect both adults and children. Brain tumors account for 80-90% of all primary central nervous system (CNS) tumors.
 
 
-Cada año, alrededor de 11.700 personas son diagnosticadas con un tumor cerebral. La tasa de supervivencia a 5 años para las personas con un tumor canceroso del cerebro o del SNC es de aproximadamente el 34% para los hombres y el 36% para las mujeres. 
+Each year, about 11,700 people are diagnosed with a brain tumor. The 5-year survival rate for people with a cancerous brain or CNS tumor is about 34% for men and 36% for women.
 
-Es necesario realizar un diágnostico y un tratamiento precios para poder mejorar la esperanza de vida de los pacientes. Una de las mejores técnicas para su detección es mediante la resonancia magnética
-(MRI), donde se generan una gran cantidad de imágenes que son examinadas por el radiólogo.
+It is necessary to carry out a diagnosis and a price treatment to improve the life expectancy of patients. One of the best techniques for its detection is through magnetic resonance imaging.
+(MRI), where a large number of images are generated and examined by the radiologist.
 
-Los tumores cerebrales son complejos, hay muchas anomalías en el tamaño y la ubicación de los tumores cerebrales. Esto dificulta la comprensión completa de la naturaleza del tumor. 
+Brain tumors are complex, there are many abnormalities in the size and location of brain tumors. This makes it difficult to fully understand the nature of the tumor.
 
-A menudo, en los países en desarrollo, la falta de médicos capacitados y la falta de conocimiento sobre los tumores cerebrales hace que la realización de informes a partir de las MRI sea un trabajo tedioso y que requiere mucho tiempo. 
+Often in developing countries, the lack of trained physicians and the lack of knowledge about brain tumors make MRI reporting a tedious and time-consuming job.
 
-Aquí es donde la inteligencia artificial puede ayudar a los médicos en esta situación a realizar un diagnóstico más preciso y en menor tiempo.
+This is where artificial intelligence can help doctors in this situation to make a more accurate diagnosis and in less time.
 
-En este [proyecto](https://github.com/Cristina-MG/Brain-Tumor-) se propone un modelo que detecte la presencia de tumores y su clasificación utilizando el aprendizaje automático (ML). Para ello se ha trabajado con algoritmos de Deep Learning utilizando Convolution Neural Network (CNN) y TransferLearning (TL).
+In this [project](https://github.com/Cristina-MG/Brain-Tumor-) a model is proposed that detects the presence of tumors and their classification using machine learning (ML). For this, we have worked with Deep Learning algorithms using Convolution Neural Network (CNN) and transfer learning (TL).
 
-![image](/Portfolio/images/ML_MODELO.jpg)
+! [image](/Portfolio/images/ML_MODELO.jpg)
 
