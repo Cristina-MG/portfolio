@@ -9,7 +9,7 @@ image:
   teaser: tumorbrain400x250.jpg
 ---
 
-<h3> Machine Learning project for the detection and classification of brain tumors by analyzing magnetic resonance images (MRI)</h3>
+<h4> Machine Learning project for the detection and classification of brain tumors by analyzing magnetic resonance images (MRI)</h4>
 
 Brain tumors are considered one of the most aggressive diseases that can affect both adults and children. Brain tumors account for 80-90% of all primary central nervous system (CNS) tumors.
 
