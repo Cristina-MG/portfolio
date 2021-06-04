@@ -27,5 +27,5 @@ This is where artificial intelligence can help doctors in this situation to make
 
 In this [project](https://github.com/Cristina-MG/Brain-Tumor-) a model is proposed that detects the presence of tumors and their classification using machine learning (ML). For this, we have worked with Deep Learning algorithms using Convolution Neural Network (CNN) and Transfer Learning (TL).
 
-![image](/images/ML_MODELO.jpg)
+<!--![image](/images/ML_MODELO.jpg)
 
