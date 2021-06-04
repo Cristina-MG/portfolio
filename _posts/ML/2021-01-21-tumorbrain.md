@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "TUMOR BRAIN CLASSIFICATION"
-categories: portfolio
+categories: ml
 excerpt: "Machine Learning project for the detection and classification of brain tumors by analyzing magnetic resonance images (MRI)"
 tags: [machine learning]
 share: false
