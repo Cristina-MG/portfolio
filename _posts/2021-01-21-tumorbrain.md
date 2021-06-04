@@ -25,7 +25,7 @@ Often in developing countries, the lack of trained physicians and the lack of kn
 
 This is where artificial intelligence can help doctors in this situation to make a more accurate diagnosis and in less time.
 
-In this [project](https://github.com/Cristina-MG/Brain-Tumor-) a model is proposed that detects the presence of tumors and their classification using machine learning (ML). For this, we have worked with Deep Learning algorithms using Convolution Neural Network (CNN) and transfer learning (TL).
+In this [project](https://github.com/Cristina-MG/Brain-Tumor-) a model is proposed that detects the presence of tumors and their classification using machine learning (ML). For this, we have worked with Deep Learning algorithms using Convolution Neural Network (CNN) and Transfer Learning (TL).
 
-![image](/Cristina-MG.github.io/images/ML_MODELO.jpg)
+![image](/images/ML_MODELO.jpg)
 
