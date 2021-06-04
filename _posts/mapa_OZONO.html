@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_49791e0602744cc8957bece62a9ce3c4 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_49791e0602744cc8957bece62a9ce3c4" ></div>
+        
+</body>
+<script>    
+    
+            var map_49791e0602744cc8957bece62a9ce3c4 = L.map(
+                "map_49791e0602744cc8957bece62a9ce3c4",
+                {
+                    center: [40.4167, -3.70325],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_630bc8e2f01b420dbf36fad17f2cdf01 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+            var circle_0de3a1467d394b7c811a2ba262777d72 = L.circle(
+                [40.44000000000013, -3.6391670000000227],
+                {"bubblingMouseEvents": true, "color": "#6FBD3B", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#6FBD3B", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 439.7080054065972, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_7ffbb31bd4be4028b509cf18d83a586e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6fb81023f7854f30b2f5229f13c4d091 = $(`<div id="html_6fb81023f7854f30b2f5229f13c4d091" style="width: 100.0%; height: 100.0%;">Arturo Soria</div>`)[0];
+            popup_7ffbb31bd4be4028b509cf18d83a586e.setContent(html_6fb81023f7854f30b2f5229f13c4d091);
+        
+
+        circle_0de3a1467d394b7c811a2ba262777d72.bindPopup(popup_7ffbb31bd4be4028b509cf18d83a586e)
+        ;
+
+        
+    
+    
+            var circle_c27a9e948bb046fab4d34fbb4ca31a7d = L.circle(
+                [40.47472000000013, -3.575000000000024],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 660.5266353978104, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_9637f81f2ff74bcc90604688a53d4721 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_13d177a89d184538a80360a09cb0feb7 = $(`<div id="html_13d177a89d184538a80360a09cb0feb7" style="width: 100.0%; height: 100.0%;">Barajas Pueblo</div>`)[0];
+            popup_9637f81f2ff74bcc90604688a53d4721.setContent(html_13d177a89d184538a80360a09cb0feb7);
+        
+
+        circle_c27a9e948bb046fab4d34fbb4ca31a7d.bindPopup(popup_9637f81f2ff74bcc90604688a53d4721)
+        ;
+
+        
+    
+    
+            var circle_94f8a29aa9cd4cca85e54926a08b9fa4 = L.circle(
+                [40.478332999999616, -3.7113890000000325],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 683.2440652419659, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_f9fd2d8caf1b4c3581ff33efd025f27c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9318a2e6efd344038a2af0a362ec2c06 = $(`<div id="html_9318a2e6efd344038a2af0a362ec2c06" style="width: 100.0%; height: 100.0%;">Barrio del Pilar</div>`)[0];
+            popup_f9fd2d8caf1b4c3581ff33efd025f27c.setContent(html_9318a2e6efd344038a2af0a362ec2c06);
+        
+
+        circle_94f8a29aa9cd4cca85e54926a08b9fa4.bindPopup(popup_f9fd2d8caf1b4c3581ff33efd025f27c)
+        ;
+
+        
+    
+    
+            var circle_ce152446f35149cb8e4534fed0eca3e7 = L.circle(
+                [40.420000000000066, -3.7491669999999644],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 743.4885972564396, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_e42953608d5a4a8bbe3e00a88d1ec2b4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a820576945654688a39bf4dfa470d7a4 = $(`<div id="html_a820576945654688a39bf4dfa470d7a4" style="width: 100.0%; height: 100.0%;">Casa de Campo</div>`)[0];
+            popup_e42953608d5a4a8bbe3e00a88d1ec2b4.setContent(html_a820576945654688a39bf4dfa470d7a4);
+        
+
+        circle_ce152446f35149cb8e4534fed0eca3e7.bindPopup(popup_e42953608d5a4a8bbe3e00a88d1ec2b4)
+        ;
+
+        
+    
+    
+            var circle_c7f65d5e22bf475089b7744c106ee263 = L.circle(
+                [40.518060000000226, -3.7744439999999844],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 755.2573672342742, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_1624e28f2aab41dca5b1c29e19d1de78 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c6ae6470cab044fb9374916ec0b243d5 = $(`<div id="html_c6ae6470cab044fb9374916ec0b243d5" style="width: 100.0%; height: 100.0%;">El Pardo</div>`)[0];
+            popup_1624e28f2aab41dca5b1c29e19d1de78.setContent(html_c6ae6470cab044fb9374916ec0b243d5);
+        
+
+        circle_c7f65d5e22bf475089b7744c106ee263.bindPopup(popup_1624e28f2aab41dca5b1c29e19d1de78)
+        ;
+
+        
+    
+    
+            var circle_91455a75780848f1b2feb76746b9e6c6 = L.circle(
+                [40.3727799999998, -3.6119439999999945],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 656.1438691680166, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_334847d8092648a990c1e56d9d366f81 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_996df587df0a45dd90727f2273169d13 = $(`<div id="html_996df587df0a45dd90727f2273169d13" style="width: 100.0%; height: 100.0%;">Ensanche de Vallecas</div>`)[0];
+            popup_334847d8092648a990c1e56d9d366f81.setContent(html_996df587df0a45dd90727f2273169d13);
+        
+
+        circle_91455a75780848f1b2feb76746b9e6c6.bindPopup(popup_334847d8092648a990c1e56d9d366f81)
+        ;
+
+        
+    
+    
+            var circle_293dfeb455764a7196d8ad72fe964bd3 = L.circle(
+                [40.42166700000013, -3.682221999999996],
+                {"bubblingMouseEvents": true, "color": "#76acf0", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#76acf0", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 579.9595364943526, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_8dc639d9fe8f4ebf858d269ef33c1084 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7a823d3182fe4d59970d158dc2af218d = $(`<div id="html_7a823d3182fe4d59970d158dc2af218d" style="width: 100.0%; height: 100.0%;">Escuelas Aguirre</div>`)[0];
+            popup_8dc639d9fe8f4ebf858d269ef33c1084.setContent(html_7a823d3182fe4d59970d158dc2af218d);
+        
+
+        circle_293dfeb455764a7196d8ad72fe964bd3.bindPopup(popup_8dc639d9fe8f4ebf858d269ef33c1084)
+        ;
+
+        
+    
+    
+            var circle_6dd1110181624e83b26a1ff9cad14323 = L.circle(
+                [40.3947220000004, -3.731944000000026],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 705.6582194316774, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_f1b66570443d44758c44650c7f8b1b19 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_23062c6abff8409e9856455321d33411 = $(`<div id="html_23062c6abff8409e9856455321d33411" style="width: 100.0%; height: 100.0%;">Farolillo</div>`)[0];
+            popup_f1b66570443d44758c44650c7f8b1b19.setContent(html_23062c6abff8409e9856455321d33411);
+        
+
+        circle_6dd1110181624e83b26a1ff9cad14323.bindPopup(popup_f1b66570443d44758c44650c7f8b1b19)
+        ;
+
+        
+    
+    
+            var circle_85c6a535e1c54fa6a00479204c169639 = L.circle(
+                [40.46500000000012, -3.608889000000003],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 706.6138204515656, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_594b2a4a241b46d29307f817650ffe82 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_026979ff5d7d4ca8a2a7d9a12bee1027 = $(`<div id="html_026979ff5d7d4ca8a2a7d9a12bee1027" style="width: 100.0%; height: 100.0%;">Juan Carlos I</div>`)[0];
+            popup_594b2a4a241b46d29307f817650ffe82.setContent(html_026979ff5d7d4ca8a2a7d9a12bee1027);
+        
+
+        circle_85c6a535e1c54fa6a00479204c169639.bindPopup(popup_594b2a4a241b46d29307f817650ffe82)
+        ;
+
+        
+    
+    
+            var circle_6c3c700a1dbe421db4cb309c100fc76e = L.circle(
+                [40.40971999999977, -3.685555999999988],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 688.2084415771159, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_4557291b576b459f962b389af9118196 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2fb2babef325415f9a38081277e0002b = $(`<div id="html_2fb2babef325415f9a38081277e0002b" style="width: 100.0%; height: 100.0%;">Parque del Retiro</div>`)[0];
+            popup_4557291b576b459f962b389af9118196.setContent(html_2fb2babef325415f9a38081277e0002b);
+        
+
+        circle_6c3c700a1dbe421db4cb309c100fc76e.bindPopup(popup_4557291b576b459f962b389af9118196)
+        ;
+
+        
+    
+    
+            var circle_e91fff4233494a37a7e1778fead9e9b5 = L.circle(
+                [40.38472000000001, -3.7186110000000085],
+                {"bubblingMouseEvents": true, "color": "#76acf0", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#76acf0", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 595.7359719458464, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_5208483a476c45f6b62d401f556ac4b2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fdd13f63b86d4edb81dfff04a15b6821 = $(`<div id="html_fdd13f63b86d4edb81dfff04a15b6821" style="width: 100.0%; height: 100.0%;">Pza. Elíptica</div>`)[0];
+            popup_5208483a476c45f6b62d401f556ac4b2.setContent(html_fdd13f63b86d4edb81dfff04a15b6821);
+        
+
+        circle_e91fff4233494a37a7e1778fead9e9b5.bindPopup(popup_5208483a476c45f6b62d401f556ac4b2)
+        ;
+
+        
+    
+    
+            var circle_120856f294d5426ca246befc608c9d07 = L.circle(
+                [40.41916700000001, -3.7033329999999967],
+                {"bubblingMouseEvents": true, "color": "#76acf0", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#76acf0", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 568.0438923878392, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_5ccdfbbe743f4790b234910a89bbb807 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a829602476cb466283dbcda0b0832e7c = $(`<div id="html_a829602476cb466283dbcda0b0832e7c" style="width: 100.0%; height: 100.0%;">Pza. del Carmen</div>`)[0];
+            popup_5ccdfbbe743f4790b234910a89bbb807.setContent(html_a829602476cb466283dbcda0b0832e7c);
+        
+
+        circle_120856f294d5426ca246befc608c9d07.bindPopup(popup_5ccdfbbe743f4790b234910a89bbb807)
+        ;
+
+        
+    
+    
+            var circle_cc318a4c354a47168eb2c9dba1dc710c = L.circle(
+                [40.50056000000028, -3.6897220000000046],
+                {"bubblingMouseEvents": true, "color": "#e19255", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e19255", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 800.0, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_d578c590693944cb85e558f0e58fb8de = L.popup({"maxWidth": "100%"});
+
+        
+            var html_85f833cc36704500b8e2195b4f3783eb = $(`<div id="html_85f833cc36704500b8e2195b4f3783eb" style="width: 100.0%; height: 100.0%;">Tres Olivos</div>`)[0];
+            popup_d578c590693944cb85e558f0e58fb8de.setContent(html_85f833cc36704500b8e2195b4f3783eb);
+        
+
+        circle_cc318a4c354a47168eb2c9dba1dc710c.bindPopup(popup_d578c590693944cb85e558f0e58fb8de)
+        ;
+
+        
+    
+    
+            var circle_2ce87b3bcd84463c8dc8cb136930f6d0 = L.circle(
+                [40.3469440000003, -3.7049999999999965],
+                {"bubblingMouseEvents": true, "color": "#76acf0", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#76acf0", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 631.9804058782365, "stroke": true, "weight": 3}
+            ).addTo(map_49791e0602744cc8957bece62a9ce3c4);
+        
+    
+        var popup_47b2aa4b56854e7787229337f946fba4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_eff2c547e84648f2b59ef55ecd482d30 = $(`<div id="html_eff2c547e84648f2b59ef55ecd482d30" style="width: 100.0%; height: 100.0%;">Villaverde</div>`)[0];
+            popup_47b2aa4b56854e7787229337f946fba4.setContent(html_eff2c547e84648f2b59ef55ecd482d30);
+        
+
+        circle_2ce87b3bcd84463c8dc8cb136930f6d0.bindPopup(popup_47b2aa4b56854e7787229337f946fba4)
+        ;
+
+        
+    
+</script>
