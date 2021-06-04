@@ -7,7 +7,8 @@ locales:
   en: &DEFAULT_EN
     overview: "Overview"
     toc: ""
-    written_by: "Written by: "
+    written_by: "Written by: 
+    "
     updated: "Updated"
     share: "Share on"
   en_US:
