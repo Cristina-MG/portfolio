@@ -27,8 +27,7 @@ plugins:
 # Site owner
 owner:
   name: "Cristina Martínez García"
-  web: https://github.com/Cristina-MG
-  linkedin: https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/
+  web: https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/
   twitter: 
   bio: Chemical Engenieer & Data Scientist
   avatar: "foto.jpg" # 160x160 px image for author byline
