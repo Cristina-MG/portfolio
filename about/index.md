@@ -10,6 +10,7 @@ image:
   thumb:
 share: false
 ads: f
+---
 
 Graduated in Chemical Engineering from the Polytechnic University of Madrid, I have expanded my knowledge to become a Data Scientist and adapt to the new requirements of Industry 4.0.
 
