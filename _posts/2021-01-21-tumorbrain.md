@@ -9,7 +9,7 @@ image:
   teaser: tumorbrain400x250.jpg
 ---
 
-<h2> Machine Learning project for the detection and classification of brain tumors by analyzing magnetic resonance images (MRI)</h2>
+<h3> Machine Learning project for the detection and classification of brain tumors by analyzing magnetic resonance images (MRI)</h3>
 
 Brain tumors are considered one of the most aggressive diseases that can affect both adults and children. Brain tumors account for 80-90% of all primary central nervous system (CNS) tumors.
 
@@ -27,5 +27,5 @@ This is where artificial intelligence can help doctors in this situation to make
 
 In this [project](https://github.com/Cristina-MG/Brain-Tumor-) a model is proposed that detects the presence of tumors and their classification using machine learning (ML). For this, we have worked with Deep Learning algorithms using Convolution Neural Network (CNN) and transfer learning (TL).
 
-! [image](/Portfolio/images/ML_MODELO.jpg)
+! [image](/Cristina-MG.github.io/images/ML_MODELO.jpg)
 
