@@ -16,5 +16,5 @@ Graduated in Chemical Engineering from the Polytechnic University of Madrid, I h
 
 I know the main data analysis tools and Machine Learning, and I still want to continue learning and improving.
 
-If you want to know more about me, please check my profile on [Linkedin](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/) or send me an[email](mailto:cmzgar@gmail.com)
+If you want to know more about me, please check my profile on [Linkedin](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/) or send me an [email](mailto:cmzgar@gmail.com)
 
