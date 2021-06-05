@@ -1,7 +1,6 @@
 ---
-title: "UWA Marine Ecology Group
-Fisheries Research"
-excerpt: " <br> <br>"
+title: "Cristina Martínez García"
+excerpt: " Chemical Engineer & Data Scientist <br> <br>"
 image:
   feature: data-visualization.jpg
 ---
