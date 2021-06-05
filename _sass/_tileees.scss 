@@ -8,9 +8,9 @@
   @include media($micro) {
     @include fill-parent;
   }
-  @include media(new-breakpoint(min-width em(1000) 12)) {
-    @include span-columns(2);
-    @include omega(3n);
+  @include media(new-breakpoint(min-width em(480) 2)) {
+    @include span-columns(1);
+    @include omega(2n);
   }
   .entry-date {
     @include font-size(16,no);
