@@ -7,11 +7,7 @@ image:
 
 <div class="tileees">
 
-<div class="tile">
-  <h2 class="post-title"> </h2>
-  <p class="post-excerpt"></p>
-  <br><br>
- </div>
+ 
 <div class="tile">
   <h2 class="post-title"> </h2>
   <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/foto.jpg' width="100%"></a></p>
