@@ -13,13 +13,13 @@ image:
 </div><!-- /.tiles -->
 
 <div class="tile">
-  <h2 class="post-title"></h2>
-  <p class="post-excerpt">On this page you can find all the projects I have worked on and am currently working on.<br>
-  The projects are written in Python (Jupyter Notebook / PyCharm / Google Colab).<br> Feel free to browse this page and take a look at the projects that appeal to you the most.</p>
+  <h2 class="post-title">Welcome to my profile</h2>
+  <p class="post-excerpt">On this page you can find all the projects I have worked on and am currently working on.<br><br>
+  The projects are written in Python (Jupyter Notebook / PyCharm / Google Colab).<br><br> Feel free to browse this page and take a look at the projects that appeal to you the most.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">t</h2>
+  <h2 class="post-title">About me</h2>
   <p class="post-excerpt">Graduated in Chemical Engineering from the Polytechnic University of Madrid, I have expanded my knowledge to become a Data Scientist and adapt to the new requirements of Industry 4.0.<br>
 I know the main data analysis tools and Machine Learning, and I still want to continue learning and improving.</p>
 </div><!-- /.tile -->
