@@ -12,8 +12,13 @@ image:
 </div><!-- /.tiles -->
   
 <div class="tile">
-  <h2 class="post-title">Expertise</h2>
-  <p class="post-excerpt">We have world leading expertise in stereo-video methods to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour; with on-going collaboratorations around Australia and internationally across socio-economics, oceanography and statistical theory.<br><br>See our <a href="https://uwamegfisheries.github.io/research"> Research</a> page for more details.</p>
+  <h2 class="post-title">About</h2>
+  <p class="post-excerpt">
+  Graduated in Chemical Engineering from the Polytechnic University of Madrid, I have expanded my knowledge to become a Data Scientist and adapt to the new requirements of Industry 4.0.<br><br>
+  I know the main data analysis tools and Machine Learning, and I still want to continue learning and improving.<br><br>
+  If you want to know more about me, please check my profile on <a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/"> Linkedin </a>.
+
+  <a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/"> Linkedin </a> page for more details.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -24,3 +29,10 @@ image:
 
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+I know the main data analysis tools and Machine Learning, and I still want to continue learning and improving.
+
+If you want to know more about me, please check my profile on Linkedin or send me an email
+
