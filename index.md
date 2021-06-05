@@ -8,7 +8,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
- ![image](/images/foto.png)
+ foto.png
 </div><!-- /.tile -->
 
 <div class="tile">
