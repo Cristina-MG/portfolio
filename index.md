@@ -1,6 +1,6 @@
 ---
-title: "Cristina Martínez García"
-excerpt: " Chemical Engineer & Data Scientist <br> <br>"
+title: "CRISTINA MARTINEZ GARCIA"
+excerpt: "<br> <br>"
 image:
   feature: data-visualization.jpg
 ---
