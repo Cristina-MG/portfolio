@@ -8,8 +8,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">William Edwards Deming</h2>
-  <p class="post-excerpt">"Without data, you're just another person with an opinion".</p>
+ ![image](/images/foto.png)
 </div><!-- /.tile -->
 
 <div class="tile">
