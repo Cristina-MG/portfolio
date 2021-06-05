@@ -1,4 +1,6 @@
 ---
+layout: home
+permalink: /
 title: "CRISTINA MARTINEZ GARCIA"
 excerpt: "<br> <br>"
 image:
