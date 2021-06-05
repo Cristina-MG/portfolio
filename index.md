@@ -16,17 +16,8 @@ image:
   <p class="post-excerpt">
   Graduated in Chemical Engineering from the Polytechnic University of Madrid, I have expanded my knowledge to become a Data Scientist and adapt to the new requirements of Industry 4.0.<br><br>
   I know the main data analysis tools and Machine Learning, and I still want to continue learning and improving.<br><br>
-  If you want to know more about me, please check my profile on <a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/"> Linkedin </a>.
+  If you want to know more about me, please check my profile on <a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/"> Linkedin </a></p>.
 </div><!-- /.tile -->
 
-
-
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-I know the main data analysis tools and Machine Learning, and I still want to continue learning and improving.
-
-If you want to know more about me, please check my profile on Linkedin or send me an email
 
