@@ -5,15 +5,7 @@ image:
   feature: data-visualization.jpg
 ---
 
-<div class="tiles">
-<div class="tile">
-  <h2 class="post-title"> </h2>
-  <p class="post-excerpt"></p>
-  <br><br>
- </div><!-- /.tile -->
-</div><!-- /.tiles -->
-
-<div class="tiles">
+<div class="tileees">
 
 <div class="tile">
   <h2 class="post-title"> </h2>
