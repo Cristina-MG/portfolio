@@ -1,6 +1,7 @@
 ---
-layout: home
-permalink: /
+title: "UWA Marine Ecology Group
+Fisheries Research"
+excerpt: " <br> <br>"
 image:
   feature: data-visualization.jpg
 ---
@@ -33,3 +34,5 @@ image:
 
 
 
+<!--layout: home
+permalink: /
