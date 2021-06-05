@@ -26,7 +26,8 @@ I know the main data analysis tools and Machine Learning, and I still want to co
 
 <div class="tile">
   <h2 class="post-title">Contact me</h2>
- <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/logolinkedin.png' width="50%"></a></p>
+ <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/logolinkedin.png' width="25%"></a></p><br><br>
+ <p class="post-excerpt"><a href="https://github.com/cristina-mg" target="_blank"><img src='images/github.png' width="25%"></a></p>
 </div><!-- /.tile -->
   
 
