@@ -13,9 +13,9 @@ image:
 <center>
 
  <h3> Cristina Martínez García </h3>
-<font color="Olive"><h7> Chemical Engineer & Data Scientist </h7>
+<font color="#0E6655 "><h5> Chemical Engineer & Data Scientist </h5>
 </font>
- </p>
+ 
 
  <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/linkedin.jpg' width="25%"></a></p>
  <p class="post-excerpt"><a href="https://github.com/cristina-mg" target="_blank"><img src='images/git.jpg' width="25%"></a></p>
