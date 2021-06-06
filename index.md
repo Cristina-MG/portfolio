@@ -14,6 +14,8 @@ image:
 
 On this page you can find all the projects I have worked on and am currently working on.<br><br>
   The projects are written in Python (Jupyter Notebook | PyCharm | Google Colab).<br><br> Feel free to browse this page and take a look at the projects that appeal to you the most.
+  On this page you can find all the projects I have worked on and am currently working on.<br><br>
+  The projects are written in Python (Jupyter Notebook | PyCharm | Google Colab).<br><br> Feel free to browse this page and take a look at the projects that appeal to you the most.
 
 <div class="tile">
   <h2 class="post-title">Welcome</h2>
