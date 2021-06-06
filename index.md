@@ -11,9 +11,9 @@ image:
   <h2 class="post-title"> </h2>
   <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/foto.png' width="100%"></a></p>
 <center>
-<p style="color:#0E6655 ";>
+
  <h3> Cristina Martínez García </h3>
- <h7> Chemical Engineer & Data Scientist </h7>
+ <p style="color:#0E6655";><h7> Chemical Engineer & Data Scientist </h7>
  </p>
 
  <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/linkedin.jpg' width="25%"></a></p>
