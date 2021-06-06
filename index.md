@@ -29,10 +29,38 @@ I know the main data analysis tools and Machine Learning, and I still want to co
  <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/linkedin.jpg' width="25%"></a></p>
  <p class="post-excerpt"><a href="https://github.com/cristina-mg" target="_blank"><img src='images/git.jpg' width="25%"></a></p>
 </div><!-- /.tile -->
-  
-
-
 </div>
+
+<div class="container">
+    <div class="tile">
+        <img src="images/git.jpg">
+    </div>
+    <div class="tile">
+        <img src="images/git.jpg">
+    </div>
+</div>
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 1rem;
+}
+.tile img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.tile:nth-child(1){
+    grid-column: span 3;
+
+}
+
+.tile:nth-child(2){
+    grid-column: span 3;
+}
+
+
 
  
 
