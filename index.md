@@ -31,35 +31,25 @@ I know the main data analysis tools and Machine Learning, and I still want to co
 </div><!-- /.tile -->
 </div>
 
+<div class="tiles">
+
 <div class="container">
     <div class="tile">
         <img src="images/git.jpg">
     </div>
     <div class="tile">
+        <img src="madrid.jpg">
+    </div>
+    <div class="tile">
+        <img src="madrid.jpg">
+    </div>
+    <div class="tile">
+        <img src="madrid.jpg">
+    </div>
+    <div class="tile">
         <img src="images/git.jpg">
     </div>
 </div>
-
-.container{
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-gap: 1rem;
-}
-.tile img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.tile:nth-child(1){
-    grid-column: span 3;
-
-}
-
-.tile:nth-child(2){
-    grid-column: span 3;
-}
-
 
 
  
