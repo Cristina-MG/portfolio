@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: ddata-visualization.jpg
+  feature: degradado.jpg
 ---
 
 <div class="tiles">
