@@ -11,7 +11,7 @@ image:
   <h2 class="post-title"> </h2>
   <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/foto.png' width="100%"></a></p>
 
- <h1> Cristina Martínez García </h1>
+ <h2> Cristina Martínez García </h2>
  <h2 class="post-title">Chemical Engineer & Data Scientist </h2>
 
 
