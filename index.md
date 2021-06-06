@@ -38,13 +38,13 @@ I know the main data analysis tools and Machine Learning, and I still want to co
         <img src="images/git.jpg">
     </div>
     <div class="tile">
-        <img src="madrid.jpg">
+        <img src="images/linkedin.jpg">
     </div>
     <div class="tile">
-        <img src="madrid.jpg">
+        <img src="images/linkedin.jpg">
     </div>
     <div class="tile">
-        <img src="madrid.jpg">
+        <img src="images/linkedin.jpg">
     </div>
     <div class="tile">
         <img src="images/git.jpg">
