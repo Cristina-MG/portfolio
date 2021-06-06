@@ -31,7 +31,7 @@ I know the main data analysis tools and Machine Learning, and I still want to co
 </div><!-- /.tile -->
 </div>
 
-<div class="tiles">
+<div class="tiless">
 
 <div class="container">
     <div class="tile">
