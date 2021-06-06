@@ -9,11 +9,11 @@ image:
 
 <div class="tile">
   <h2 class="post-title"> </h2>
-  <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/foto.jpg' width="100%"></a></p>
+  <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/foto.png' width="100%"></a></p>
 </div><!-- /.tiles -->
 
 <div class="tile">
-  <h2 class="post-title">Welcome to my profile</h2>
+  <h2 class="post-title">Welcome</h2>
   <p class="post-excerpt">On this page you can find all the projects I have worked on and am currently working on.<br><br>
   The projects are written in Python (Jupyter Notebook | PyCharm | Google Colab).<br><br> Feel free to browse this page and take a look at the projects that appeal to you the most.</p>
 </div><!-- /.tile -->
