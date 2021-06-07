@@ -8,7 +8,9 @@ image:
 <div class="tiles">
 
 <div class="tile">
-images/fotoprofile.png
+  <h2 class="post-title"> </h2>
+  <p class="post-excerpt"><a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/fotoprofile.png' width="100%"></a></p>
+
  
 
 <a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/linkedin.jpg' width="25%"></a>
