@@ -14,11 +14,11 @@ image:
  
 
 <a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/linkedin.jpg' width="25%"></a>
-<a href="https://github.com/cristina-mg" target="_blank"><img src='images/git.jpg' width="23%"></a>
+<a href="https://github.com/cristina-mg" target="_blank"><img src='images/git.jpg' width="25%"></a>
 
 </div><!-- /.tiles -->
 
-Welcome to my page<br><br>
+<h2>Welcome to my page</h2><br><br>
 
 My name is Cristina Martínez García and I have a degree in Chemical Engineering from the <a href="https://www.etsii.upm.es/" target="_blank">Higher School of Industrial Engineers</a> of the <a href="https://www.upm.es/" target="_blank">Polytechnic University of Madrid</a>. I have expanded my knowledge to become a Data Scientist and adapt to the new demands of Industry 4.0 by taking a Data course Scientist at <a href="https://www.thebridge.tech/" target="_blank">The Bridge</a>. <br><br>
 
