@@ -18,17 +18,17 @@ image:
 
 </div><!-- /.tiles -->
 
-<h2>Welcome to my page</h2><br>
+<h2><p style="color:darkturquoise";>Welcome to my page</p></h2>
 
 <h6> My name is Cristina Martínez García and I have a degree in Chemical Engineering from the <a href="https://www.etsii.upm.es/" target="_blank">Higher School of Industrial Engineers</a> of the <a href="https://www.upm.es/" target="_blank">Polytechnic University of Madrid</a>. I have expanded my knowledge to become a Data Scientist and adapt to the new demands of Industry 4.0 by taking a Data course Scientist at <a href="https://www.thebridge.tech/" target="_blank">The Bridge.</a></h6>  <br><br>
 
-I know the main data analysis and Machine Learning tools, and I put all my effort and motivation to improve and learn every day.<br><br>
+<h6>I know the main data analysis and Machine Learning tools, and I put all my effort and motivation to improve and learn every day.<br><br>
 
 On this page, you can find all the projects I have worked on and are currently working on.<br><br>
 
-The projects are written in the Python programming language (Jupyter Notebook | PyCharm | Google Colab).<br><br>
+The projects are written in the Python programming language (Jupyter Notebook | PyCharm | Google Colab).<h/6><br><br>
 
-Feel free to browse this page and take a look at the projects that appeal to you the most.</h4> 
+Feel free to browse this page and take a look at the projects that appeal to you the most.</h6>
 
 </div><!-- /.tile -->
 
