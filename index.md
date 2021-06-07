@@ -8,9 +8,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title"> </h2>
- <img src='images/fotoprofile.png' width="100%"></a>
-
+images/fotoprofile.png
  
 
 <a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/" target="_blank"><img src='images/linkedin.jpg' width="25%"></a>
