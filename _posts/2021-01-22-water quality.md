@@ -34,7 +34,7 @@ Thanks to the data obtained in this [link](https://www.kaggle.com/adityakadiwal/
 All this work you can see my [Github repository](https://github.com/Cristina-MG/Water-Quality), where you can find more interactive visualizations like this one.
 
 
-    <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script type="text/javascript">/**
 * plotly.js v1.58.4
 * Copyright 2012-2020, Plotly, Inc.
