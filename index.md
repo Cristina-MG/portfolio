@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: degradado.png
+  feature: fondo.png
 ---
 
 <div class="tiles">
