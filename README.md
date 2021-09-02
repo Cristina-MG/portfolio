@@ -1,23 +1,12 @@
-# Skinny Bones Jekyll Starter
+### Hi there 👋
+<h1 align = "center"> Welcome </h1>
+<img source ="'images/fondo.png">
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+<h2 align = "left"> My name is Cristina Martínez García and I have a degree in Chemical Engineering from the Higher School of Industrial Engineers of the Polytechnic University of Madrid. I have expanded my knowledge to become a Data Scientist and adapt to the new demands of Industry 4.0 by taking a Data course Scientist at The Bridge.
+I know the main data analysis and Machine Learning tools, and I put all my effort and motivation to improve and learn every day.
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
+On this page, you can find all the projects I have worked on and are currently working on.
 
----
+The projects are written in the Python programming language (Jupyter Notebook | PyCharm | Google Colab).
 
-## Notable Features
-
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
-
-## More Jekyll Themes
-
-Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
-
-* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-* [So Simple](https://github.com/mmistakes/so-simple-theme)
-* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+Feel free to browse this page and take a look at the projects that appeal to you the most..</h2>
