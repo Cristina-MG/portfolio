@@ -1,4 +1,4 @@
-<img src ="images/fondo.png">
+<img src ="fondo.png">
 
 <h1 align = "center"> Welcome </h1>
 
