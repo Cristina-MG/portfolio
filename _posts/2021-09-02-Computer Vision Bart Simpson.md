@@ -16,7 +16,7 @@ The main benefit that can be obtained from the use of computer vision is the hig
 
 The following video shows how the face of this character is detected.
 
-<video src = "https://youtu.be/YZwfewxqZn0" controls width="250px" height="250px"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZwfewxqZn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 All the code and files for this project can be found in the following [repository](https://github.com/Cristina-MG/Computer-Vision/).
 
