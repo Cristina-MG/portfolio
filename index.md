@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: fondo.png
+  feature: data_science_fondo.jpg
 ---
 
 <div class="tiles">
