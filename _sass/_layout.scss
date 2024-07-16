@@ -128,7 +128,7 @@
 
 #page-wrapper {
 	padding: 0 $gutter; // add white space for smaller screens
-	@include size(100% 100%);
+	@include size(100% 80%);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
 	@include transform(translate(0,0));
@@ -234,7 +234,7 @@
 	text-align: center;
 	color: $white;
 	@include media($large) {
-		background-size: 100% 50%;
+		background-size: 100%;
 	}
 }
 .page-lead-content {
