@@ -248,7 +248,7 @@
 		padding: 3em;
 	}
 	// Ajustar el margen superior para acercar el contenido a la imagen
-	margin-top: -8em; // Reduce este valor según tus necesidades
+	margin-top: -15em; // Reduce este valor según tus necesidades
 	h1 {
 		@include font-size(48);
 		@include media($medium) {
