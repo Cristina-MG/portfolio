@@ -247,6 +247,8 @@
 	@include media($large) {
 		padding: 3em;
 	}
+	// Ajustar el margen superior para acercar el contenido a la imagen
+	margin-top: -2em; // Reduce este valor según tus necesidades
 	h1 {
 		@include font-size(48);
 		@include media($medium) {
