@@ -128,7 +128,7 @@
 
 #page-wrapper {
 	padding: 0 $gutter; // add white space for smaller screens
-	@include size(100% 80%);
+	@include size(100% 60%);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
 	@include transform(translate(0,0));
@@ -147,7 +147,7 @@
 		@include media($medium) {
 			@include span-columns(9);
 		}
-	width: 80%; // Cambia el ancho del contenedor principal
+	width: 70%; // Cambia el ancho del contenedor principal
     margin: 0 auto; // Centra el contenedor
 	}
 	.page-title {
@@ -248,7 +248,7 @@
 		padding: 3em;
 	}
 	// Ajustar el margen superior para acercar el contenido a la imagen
-	margin-top: -15em; // Reduce este valor según tus necesidades
+	margin-top: -8em; // Reduce este valor según tus necesidades
 	h1 {
 		@include font-size(48);
 		@include media($medium) {
