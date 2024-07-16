@@ -1,11 +1,12 @@
 ---
 layout: article
-title: "Monitoreo de la Fidelización de Clientes en el Sector Bancario con R y Shiny"
-categories: projects
-modified: 2024-07-16T16:28:11-04:00
+title: "APP Shiny"
+excerpt: "App monitorización de la fidelización de clientes de banca"
+categories: portfolio
 tags: [proyecto, shiny, R, banca]
-comments: true
-ads: true
+share: false
+image:
+  teaser: customer.png
 ---
 
 # Monitoreo de la Fidelización de Clientes en el Sector Bancario con R y Shiny
@@ -37,4 +38,4 @@ Finalmente, en la pestaña **"Información"**, se proporciona información detal
 
 Si quieres saber más sobre este proyecto, haz clic en el siguiente enlace que te llevará directamente al repositorio en GitHub:
 
-[Visitar Proyecto en GitHub](https://github.com/usuario/nombre-del-proyecto)
+[Visitar Proyecto en GitHub](https://github.com/Cristina-MG/APP_FIDELIZACION_CLIENTES)
