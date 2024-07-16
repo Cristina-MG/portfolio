@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: data_fondo.jpg
+  feature: fondo.png
 ---
 
 <div class="tiles">
