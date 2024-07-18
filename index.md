@@ -15,6 +15,11 @@ image:
         font-weight: bold;
         color: #173243; /* Color para las palabras destacadas */
     }
+
+    .welcome-title {
+        font-size: 25px; /* Tamaño de letra más grande para el título de bienvenida */
+        font-weight: bold;
+    }
 </style>
 
 <div class="tiles">
@@ -27,7 +32,7 @@ image:
   <a href="https://github.com/cristina-mg" target="_blank"><img src='images/git.jpg' width="25%"></a>
 </div>
 
-<p>Welcome!</p>
+<p class="welcome-title">Welcome!</p>
 <p>
     I am a <strong>data scientist</strong> with experience in <strong>Python</strong> and <strong>R</strong>. Here you will find a wide variety of projects ranging from <strong>brain tumour detection</strong> to <strong>image analysis</strong> to a <strong>customer loyalty prediction application</strong>.
 </p>
@@ -40,3 +45,4 @@ image:
 </p>
 
 </div>
+ 
