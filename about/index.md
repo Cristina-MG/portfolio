@@ -1,20 +1,50 @@
 ---
 layout: article
-title: "About"
-date: 2014-06-02T09:44:20-04:00
-modified: 2021-05-07T14:56:44-04:00
-excerpt: "Cristina Martínez Profile"
+title: "About Cristina Martínez García"
+date: 2024-07-18T12:00:00-00:00
+modified: 2024-07-18T12:00:00-00:00
+excerpt: "Cristina Martínez's profile"
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: # Aquí puedes incluir la URL de una imagen destacada si la tienes
+  teaser: # O una imagen teaser
+  thumb: # O una miniatura
 share: false
-ads: f
+ads: false
 ---
 
-Graduated in Chemical Engineering from the Polytechnic University of Madrid, I have expanded my knowledge to become a Data Scientist and adapt to the new requirements of Industry 4.0.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Cristina Martínez García</title>
+    <style>
+        body {
+            font-size: 18px; /* Ajusta el tamaño de la letra según tu preferencia */
+            color: #333; /* Color de texto general */
+        }
 
-I know the main data analysis tools and Machine Learning, and I still want to continue learning and improving.
+        strong {
+            font-weight: bold;
+            color: #173243; /* Color para las palabras destacadas */
+        }
+    </style>
+</head>
+<body>
+    <article>
+        <header>
+            <h1>About</h1>
+            <p>Cristina Martínez's Profile</p>
+        </header>
+        <section>
+            <p>I'm <strong>Cristina Martínez García</strong>, passionate about <strong>data science</strong> and <strong>digital transformation</strong>. With a background in <strong>Chemical Engineering</strong> from the <strong>Universidad Politécnica de Madrid</strong>, I decided to explore new frontiers in technology and data. That's why I completed a <strong>Data Science</strong> course at <strong>The Bridge</strong>. I'm also currently developing my expertise in <strong>big data</strong> and <strong>digital transformation</strong>, to help companies take a step forward in this new trend.</p>
 
-If you want to know more about me, please check my profile on [Linkedin](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/) or send me an [email](mailto:cmzgar@gmail.com)
+            <p>I'm fascinated by the potential of <strong>artificial intelligence</strong> to solve complex problems and improve efficiency across different sectors.</p>
 
+            <p>In addition to my passion for technology, I enjoy working in <strong>multidisciplinary teams</strong> and sharing knowledge. I <strong>strongly believe</strong> in the importance of effective communication and collaboration to achieve exceptional results. I'm constantly looking for opportunities to learn and grow professionally, and I'm committed to <strong>innovation</strong> and making a <strong>positive impact</strong> in the world around me.</p>
+
+            <p>If you want to know more about me, please check my profile on <a href="https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/">LinkedIn</a> or send me an <a href="mailto:cmzgar@gmail.com">email</a>.</p>
+        </section>
+    </article>
+</body>
+</html>
