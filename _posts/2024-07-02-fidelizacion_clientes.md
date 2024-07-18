@@ -1,41 +1,40 @@
 ---
 layout: article
-title: "APP Shiny"
-excerpt: "App monitorización de la fidelización de clientes de banca"
+title: "Shiny APP"
+excerpt: "Customer loyalty monitoring app for banking sector"
 categories: portfolio
-tags: [proyecto, shiny, R, banca]
+tags: [project, shiny, R, banking]
 share: false
 image:
   teaser: customer.png
 ---
 
-# Monitoreo de la Fidelización de Clientes en el Sector Bancario con R y Shiny
+# Customer Loyalty Monitoring in Banking Sector using R and Shiny
 
-En este proyecto, he desarrollado una **aplicación** con **R** y **Shiny** para monitorizar la **fidelización de los clientes** en el **sector bancario**. La aplicación incluye varias **pestañas** que ofrecen diferentes perspectivas y análisis sobre el estado de la fidelización de los clientes.
+In this project, I have developed an **application** using **R** and **Shiny** to monitor **customer loyalty** in the **banking sector**. The application includes several **tabs** offering different perspectives and analyses on the state of customer loyalty.
 
-## Visión General
+## Overview
 
-En la pestaña **"Visión General"**, se presenta un **dashboard** que muestra diversos **gráficos**. Estos gráficos proporcionan información detallada sobre el estado de la fidelización de los clientes según distintos factores, como el **país**, la **edad** y la **solvencia económica**.
+The **"Overview"** tab features a **dashboard** displaying various **charts**. These charts provide detailed insights into customer loyalty status based on different factors such as **country**, **age**, and **economic solvency**.
 
+## Customer Segment Analysis
 
-## Análisis de Segmentos de Clientes
+The next tab focuses on monitoring different **customer segments** identified using a **K-means model**. Customers are divided into four groups: **Celestial Customer**, **Emerald Customer**, **Purple Customer**, and **Golden Customer**. The application details the main characteristics of each segment and includes values and charts that reveal the loyalty status of these segments separately.
 
-La siguiente pestaña se centra en supervisar los distintos **segmentos de clientes**. Estos segmentos se han determinado mediante un **modelo de K-means**, dividiendo a los clientes en cuatro grupos: **Cliente Celeste**, **Cliente Esmeralda**, **Cliente Púrpura** y **Cliente Dorado**. La aplicación detalla las principales características de cada segmento e incluye valores y gráficos que permiten conocer el estado de fidelización de estos segmentos por separado.
+![Customer Segment Analysis](../../images/Fidelizacion_1.png)
 
-![Análisis de Segmentos](../../images/Fidelizacion_1.png)
+## Loyalty Prediction
 
-## Predicción de Fidelización
+In the **"Prediction"** tab, a **decision tree** is used to create a **predictive model**. This model allows input of various variables and provides a **probability** of whether a customer will continue using the company's services or not.
 
-En la pestaña **"Predicción"**, se utiliza un **árbol de decisión** para crear un **modelo predictivo**. Este modelo permite introducir una serie de variables y proporciona una **probabilidad** de que un cliente continúe o no con el servicio ofrecido por la empresa.
+![Customer Loyalty Prediction](../../images/Fidelizacion_2.png)
 
-![Predicción Fidelización Clientes](../../images/Fidelizacion_2.png)
+## Dataset Information
 
-## Información del Dataset
+Finally, the **"Information"** tab provides detailed information about the **dataset** used for this project. Here, users can explore the data and gain a better understanding of the foundation upon which the application is built.
 
-Finalmente, en la pestaña **"Información"**, se proporciona información detallada sobre el **dataset** utilizado para este proyecto. Aquí, los usuarios pueden explorar los datos y comprender mejor las bases sobre las cuales se ha construido la aplicación.
+![Dataset Information](../../images/Fidelizacion_3.png)
 
-![información dataset](../../images/Fidelizacion_3.png)
+To learn more about this project, click on the following link to visit the GitHub repository:
 
-Si quieres saber más sobre este proyecto, haz clic en el siguiente enlace que te llevará directamente al repositorio en GitHub:
-
-[Visitar Proyecto en GitHub](https://github.com/Cristina-MG/APP_FIDELIZACION_CLIENTES)
+[Visit Project on GitHub](https://github.com/Cristina-MG/APP_FIDELIZACION_CLIENTES)
