@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "About Cristina Martínez García"
+title: ""
 date: 2024-07-18T12:00:00-00:00
 modified: 2024-07-18T12:00:00-00:00
-excerpt: "Cristina Martínez's profile"
+excerpt: ""
 image:
   feature: # Aquí puedes incluir la URL de una imagen destacada si la tienes
   teaser: # O una imagen teaser
@@ -17,7 +17,7 @@ ads: false
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Cristina Martínez García</title>
+    <title>About me</title>
     <style>
         body {
             font-size: 18px; /* Ajusta el tamaño de la letra según tu preferencia */
@@ -32,10 +32,7 @@ ads: false
 </head>
 <body>
     <article>
-        <header>
-            <h1>About</h1>
-            <p>Cristina Martínez's Profile</p>
-        </header>
+      
         <section>
             <p>I'm <strong>Cristina Martínez García</strong>, passionate about <strong>data science</strong> and <strong>digital transformation</strong>. With a background in <strong>Chemical Engineering</strong> from the <strong>Universidad Politécnica de Madrid</strong>, I decided to explore new frontiers in technology and data. That's why I completed a <strong>Data Science</strong> course at <strong>The Bridge</strong>. I'm also currently developing my expertise in <strong>big data</strong> and <strong>digital transformation</strong>, to help companies take a step forward in this new trend.</p>
 
