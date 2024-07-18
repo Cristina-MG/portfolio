@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Portfolio
+title: 
 ---
 
 <div class="tiles">
